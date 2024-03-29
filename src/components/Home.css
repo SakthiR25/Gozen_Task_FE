@@ -1,0 +1,27 @@
+/* Home.css */
+.home-container {
+    text-align: center;
+  }
+  
+  .home-heading {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .nav-links {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .nav-link {
+    margin: 0 20px;
+    text-decoration: none;
+    color: #007bff; /* Blue color */
+    font-size: 20px;
+  }
+  
+  .nav-link:hover {
+    color: #0056b3; /* Darker shade of blue on hover */
+  }
+  

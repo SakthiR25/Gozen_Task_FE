@@ -1,0 +1,31 @@
+/* ConditionalComponent.css */
+.conditional-component {
+    text-align: center;
+  }
+  
+  .welcome-message {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .login-message {
+    font-size: 24px;
+    color: #f00; /* Red */
+  }
+  
+  .toggle-button {
+    background-color: #007bff; /* Blue */
+    color: #fff; /* White text */
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 20px;
+  }
+  
+  .toggle-button:hover {
+    background-color: #0056b3; /* Darker shade of blue on hover */
+  }
+  

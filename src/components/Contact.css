@@ -1,0 +1,37 @@
+/* Contact.css */
+.contact-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .contact-header {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .contact-info {
+    margin-bottom: 20px;
+  }
+  
+  .contact-info p {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  .link-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .nav-link {
+    margin: 0 20px;
+    text-decoration: none;
+    color: #007bff; /* Blue color */
+    font-size: 18px;
+  }
+  
+  .nav-link:hover {
+    color: #0056b3; /* Darker shade of blue on hover */
+  }
+  

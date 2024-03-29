@@ -1,0 +1,34 @@
+/* About.css */
+.about-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .about-heading {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .about-description {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  .nav-links {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .nav-link {
+    margin: 0 20px;
+    text-decoration: none;
+    color: #007bff; /* Blue color */
+    font-size: 18px;
+  }
+  
+  .nav-link:hover {
+    color: #0056b3; /* Darker shade of blue on hover */
+  }
+  
